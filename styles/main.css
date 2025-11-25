@@ -1,0 +1,16 @@
+body {
+    background-color: #13171a; 
+    font-family: Arial, sans-serif;
+}
+
+input[type="email"], input[type="submit"] {
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #41c021;
+    border-radius: 4px;
+}
+
+.message {
+    color: #007700;
+    margin: 10px 0;
+}
